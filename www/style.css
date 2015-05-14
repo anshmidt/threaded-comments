@@ -1,0 +1,77 @@
+body  {
+  font: 12px Arial, Helvetica, sans-serif;
+  color: #000; 
+  background-color: #fff;  
+}
+h1  {
+  font-size: 24px;
+  margin: 0px 0px 0px 10px;
+}
+textarea  {
+  font: 12px Arial, Helvetica, sans-serif;
+  width: 75%;
+  height: 80;
+}
+input  {
+  font: 12px Arial, Helvetica, sans-serif;
+  width: 300px;
+}
+button  {
+  font: 12px Arial, Helvetica, sans-serif;
+}
+#LeaveCommentLink {
+  font-size: 18px;
+  color: #d30909; 
+  margin: 0px 0px 0px 10px;  
+}
+#MainAnswerForm  {
+  margin: 10px 10px 5px 10px;  
+  position: relative;
+}
+#AfterMainAnswerForm  {
+  height: 200px;    
+}
+.CommentDiv  {
+  position: relative;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #808080;
+  margin: 5px 200px 0px 10px;
+  padding: 5px 10px 5px 10px;
+}
+.ReplyLink {
+  font-size: 8px;
+  color: #d30909;   
+  position: absolute;
+  left: 150px;
+  bottom: 6px;
+}
+.DeleteLink {
+  font-size: 8px;
+  color: #d30909;   
+  position: absolute;
+  left: 195px;
+  bottom: 6px;
+}
+.Message  {
+  padding: 10px 10px 10px 0px;
+  border-style: none none solid none;
+  border-width: 1px;
+  border-color: #DCDCDC;
+  font: 12px Arial, Helvetica, sans-serif;
+  color: #000; 
+}
+.User  {
+  font-weight: bold;
+  font-size: 10px;  
+  color: #d30909; 
+  margin: 2px 0px 5px 0px;  
+}
+.Date  {
+  font-size: 8px;  
+  color: #696969;
+  width: 120px;
+}
+#InnerDiv  {
+  margin: 30px 10px 5px 10px;  
+}
